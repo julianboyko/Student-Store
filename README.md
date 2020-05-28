@@ -6,7 +6,7 @@
 ## Adding A Student
 ![](/README/Adding.png)
 
-# Viewing All Students
+## Viewing All Students
 ![](/README/ViewAll.png)
 
 ## Find A Student 

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Julian Boyko - Lab 6</string>
+    <string name="lab6_title">Student Store</string>
+    <string name="id_text">ID</string>
+    <string name="name_text">Name</string>
+    <string name="marks_text">Marks</string>
+    <string name="add_new_student">Add New Student</string>
+    <string name="view_all_students">View All Students</string>
+    <string name="find_student">Find Student (Using ID)</string>
+    <string name="delete_student">Delete Student (Using ID)</string>
+</resources>
